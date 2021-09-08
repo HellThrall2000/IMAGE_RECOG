@@ -31,8 +31,6 @@ Android Support Library.
 ![WhatsApp Image 2021-08-26 at 3 47 03 PM (2)](https://user-images.githubusercontent.com/86112651/130947630-e1aea2fc-1b4d-4ddb-a883-e095e884b8c5.jpeg)
 
 
-## Screenshots
-
 ### Setup TFLite Flutter Plugin
 
 Include `tflite_flutter: ^<latest_version>` in your pubspec.yaml. Follow the initial setup
